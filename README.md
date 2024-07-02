@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/ataul mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ataul mostafa" height="30" width="40" /></a>
 <a href="https://instagram.com/ataulmostafasufal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ataulmostafasufal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/brave stone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brave stone" height="30" width="40" /></a>
-</p>
+</p> 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ataul-mostafa&show_icons=true&locale=en&layout=compact" alt="ataul-mostafa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ataul-mostafa&show_icons=true&locale=en" alt="ataul-mostafa" /></p>
