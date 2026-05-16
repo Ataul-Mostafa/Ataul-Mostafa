@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’ve learned **HTML,CSS,JS,FIGMA,PYTHON**
 
-- 💬 Ask me about **HTML,CSS,JS,FIGMA,PYTHON**
-
 - 📫 How to reach me **ataulmostafasufal@gmail.com**
 
 - ⚡ Fun fact **I am a serious minded guy.**
