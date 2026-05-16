@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate WEB DEVLOPER,also a UX/UI DESINGER.</h3>
+<h3 align="center"> UX/UI DESINGER.</h3>
 <img allin="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataul-mostafa&label=Profile%20views&color=0e75b6&style=flat" alt="ataul-mostafa" /> </p>
 
