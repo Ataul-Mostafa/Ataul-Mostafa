@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <img allin="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataul-mostafa&label=Profile%20views&color=0e75b6&style=flat" alt="ataul-mostafa" /> </p>
 
-- 🔭 I’m currently working on **WEB DEVLOPMENT**
+- 🔭 I’m currently working on **How To improve Myself **
 
-- 🌱 I’m currently learning **HTML,CSS,JS,FIGMA,PYTHON**
+- 🌱 I’ve learned **HTML,CSS,JS,FIGMA,PYTHON**
 
 - 💬 Ask me about **HTML,CSS,JS,FIGMA,PYTHON**
 
